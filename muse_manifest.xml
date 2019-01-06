@@ -1,0 +1,119 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vistudioo.github.io" resolutions="1x" timestamp="1546779848478">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="396969683" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="image_2019-01-05_18-09-36.png" crc="47415487" seo="true" mt="1546704578000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="3849126041" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="phone>index:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="vi-studio-мелитополь-favicon.ico" crc="4056367873" ref="phone>index"/>
+    <file name="лого без круга сайт.png" crc="4045382012" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ian-dooley-298780-unsplash-u2054-fr.jpg" crc="361008695" ref="phone>index"/>
+    <file name="instagram_icon-u2061-fr.png" crc="4011063615" ref="phone>index:index"/>
+    <file name="telegram_messenger-u2062-fr.png" crc="274591028" ref="phone>index:index"/>
+    <file name="viber_png26-u2063-fr.png" crc="223734551" ref="phone>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="element5-digital-611467-unsplash.jpg" crc="3905997925" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безымянный-1-u2153-fr.png" crc="79652538" ref="phone>index"/>
+    <file name="annie-spratt-466741-unsplash-u2052-fr.png" crc="527123413" ref="phone>index"/>
+    <file name="element5-digital-611437-unsplash-u2082-fr.jpg" crc="4105221142" ref="phone>index"/>
+    <file name="2268x267.png" crc="21286204" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3267x267.png" crc="4211973607" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4267x267.png" crc="291687949" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5267x268.png" crc="3983635451" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6267x267.png" crc="3885972423" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11267x267.png" crc="506796026" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="daiga-ellaby-708070-unsplash-u2051-fr.png" crc="4106627125" ref="phone>index"/>
+    <file name="instagram_icon-u2146-fr.png" crc="4069829280" ref="phone>index"/>
+    <file name="telegram_messenger-u2147-fr.png" crc="3987742692" ref="phone>index"/>
+    <file name="viber_png26-u2150-fr.png" crc="504479904" ref="phone>index"/>
+    <file name="w512h5121380376664metrouiphonealt-u2149-fr.png" crc="32373083" ref="phone>index"/>
+    <file name="w512h5121380376577flurrygooglegmailalt-u2148-fr.png" crc="3969367533" ref="phone>index"/>
+    <file name="ian-dooley-298780-unsplash.jpg" crc="145783988" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="annie-spratt-466741-unsplash-u414-fr.png" crc="3991578833" ref="index"/>
+    <file name="безымянный-1.png" crc="3977124786" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="element5-digital-611437-unsplash.jpg" crc="4210912956" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="115479183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="474324550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="228225843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.png" crc="298386809" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.png" crc="4063437672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11.png" crc="4262598986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="daiga-ellaby-708070-unsplash-u1532-fr.png" crc="4059801524" ref="index"/>
+    <file name="instagram_icon.png" crc="512149562" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telegram_messenger.png" crc="79764688" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="viber_png26.png" crc="106349940" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="w512h5121380376664metrouiphonealt.png" crc="4293178034" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="w512h5121380376577flurrygooglegmailalt.png" crc="4205991019" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="454422701" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="508297" seo="true" mt="1546779797637" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4184374764" seo="true" mt="1546734292464" redirect="true"/>
+</manifest>
