@@ -1,0 +1,39 @@
+@font-face {
+    font-family:'m500';
+    src: url('../fonts/MuseoSansCyrl-500.woff2')/*tpa=http://track.officiall.biz.ua/l/fonts/MuseoSansCyrl-500.woff2*/ format('woff2'),
+		url('../fonts/MuseoSansCyrl-500.woff')/*tpa=http://track.officiall.biz.ua/l/fonts/MuseoSansCyrl-500.woff*/ format('woff'),
+		url('../fonts/MuseoSansCyrl-500.otf')/*tpa=http://track.officiall.biz.ua/l/fonts/MuseoSansCyrl-500.otf*/ format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-0525;
+}
+.m500 {
+    font-family:'m500';
+}
+@font-face {
+    font-family:'m700';
+    src: url('../fonts/MuseoSansCyrl-700.woff2')/*tpa=http://track.officiall.biz.ua/l/fonts/MuseoSansCyrl-700.woff2*/ format('woff2'),
+		url('../fonts/MuseoSansCyrl-700.woff')/*tpa=http://track.officiall.biz.ua/l/fonts/MuseoSansCyrl-700.woff*/ format('woff'),
+		url('../fonts/MuseoSansCyrl-700.otf')/*tpa=http://track.officiall.biz.ua/l/fonts/MuseoSansCyrl-700.otf*/ format('opentype');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-0525;
+}
+.m700 {
+    font-family:'m700';
+}
+@font-face {
+    font-family:'m900';
+    src: url('../fonts/MuseoSansCyrl-900.woff2')/*tpa=http://track.officiall.biz.ua/l/fonts/MuseoSansCyrl-900.woff2*/ format('woff2'),
+		url('../fonts/MuseoSansCyrl-900.woff')/*tpa=http://track.officiall.biz.ua/l/fonts/MuseoSansCyrl-900.woff*/ format('woff'),
+		url('../fonts/MuseoSansCyrl-900.otf')/*tpa=http://track.officiall.biz.ua/l/fonts/MuseoSansCyrl-900.otf*/ format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-0525;
+}
+.m900 {
+    font-family:'m900';
+}
